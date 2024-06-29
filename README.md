@@ -16,7 +16,7 @@
 # Running in Anaconda Environment
 
 - Download Anaconda
-- In CMD Prompt (Window Built-in) type: git clone https://github.com /heartexlabs/labelImg.git
+- In CMD Prompt (Window Built-in) type: git clone https://github.com/heartexlabs/labelImg.git
 - In Anaconda Prompt type (***ONE BY ONE***):
   
           + conda create -n labelImg_env python=3.9 -y
