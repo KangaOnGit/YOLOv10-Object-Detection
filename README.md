@@ -1,4 +1,4 @@
-# YOLOv10-Object-Detection
+# YOLOv10-Object-Detection #
 
 #PLEASE RUN IN GOOGLE COLLAB
 
